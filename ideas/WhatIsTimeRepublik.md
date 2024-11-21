@@ -20,6 +20,8 @@ If you are the owner of these Terms and Conditions, go to your iubenda dashboard
 
 Latest update: June 14, 2023
 
+## Video
+https://youtu.be/eUSV4SMK46s?si=gnduRXtS4xoUraDr
 
 
 ## What is TimeRepublik?
