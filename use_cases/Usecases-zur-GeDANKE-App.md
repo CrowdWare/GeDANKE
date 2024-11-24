@@ -20,9 +20,6 @@ Damit ich in meiner GeDANKE-App Coupons automatisch schnell erstellen kann gehe 
   
 
 ## Tausch und Wertschätzung  
-
-![](blob:https://sandbox.cryptpad.disroot.org/c3cae5ac-25a3-425d-b3c3-725d18fcdef5)![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Zum Verschieben anwählen und ziehen")   
-![](blob:https://sandbox.cryptpad.disroot.org/c5b47279-ca5c-4988-975c-8572c85c91a3)![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Zum Verschieben anwählen und ziehen")  ![](blob:https://sandbox.cryptpad.disroot.org/c51d1749-818d-44fb-98e9-8e24d0ff444c)![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Zum Verschieben anwählen und ziehen")   ![](blob:https://sandbox.cryptpad.disroot.org/6a654bf0-9fa6-477a-9431-7b195c95e784)![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Zum Verschieben anwählen und ziehen")   
   
 **Ich möchte mit meinem Coupon bei einem Bauern 10 Kg Äpfel ausgleichen:**  
    + Bauern Hans überlegt sich, wieviel 10 Kg Äpfel in Stunden und Minuten für ihn wert sind und wir vermerken diesen Zeitwert auf meinem Coupon (z.B. 1Std.), außerdem halten wir auch den Wert in Euro (z.B. 20€) auf dem Coupon fest, den der Bauer für 10 Kg Äpfel alternativ haben mag.  
@@ -38,18 +35,13 @@ Damit ich in meiner GeDANKE-App Coupons automatisch schnell erstellen kann gehe 
    + Mein Coupon taucht beim Bauern in seinem Kontobuch (Wallet) mit densleben Daten auf.  
 **Prozedur Bauer -> Ich** (Einlösen des Coupons)**:**   \+ Der Bauer sendet durch seine App meinen Coupon zurück an mich, sobald er diesen wieder bei mir
 
-  
 
 ie beschrieben (mit "Coupon schöpfen") meinen Coupon.  
 Mit Klick auf das Talente-Text-Feld, kann ich manuell die autom. generierten Angaben löschen und das reinschreiben, für was dieser (Geschenk-) Gutschein bei mir eingelöst werden kann.  
 Genauso mit den Feldern Gültigkeits(datum), Wert (Std. und min. ; Euro ; ...)  
 
-  
-
 ## (Geschenk-) Gutschein erstellen  
 (gleichzeitig Visitenkarte und Flyer)  
-
-[](https://github.com/CrowdWare/GeDANKE/blob/main/use_cases/Usecases-zur-GeDANKE-App.md#geschenk--gutschein-erstellen)
 
 Du kannst deine Coupons auch als (Geschenk-) Gutschein nutzen. Da auf dem Coupon auch deine Kontakte und evntl. eine Homepage,.... mit drauf sind, wirkt der Coupon als Visitenkarte und Flyer.  
 Außerdem zeigst Du damit, dass Du deine Talente/Angebote auch für dezentrale Wertschätzung (Coupons) anbietest und so den Wandel zur Freiheit und Fülle der Menschen unterstützt.  
@@ -68,14 +60,10 @@ Kein Grund zum Verzweifeln.
 Du versuche Dich mehr in die Gesellschaft (oder die Gemeinschaft) und ihre Bedürfnisse an die Du deine Coupons verteilst einzufühlen.  
 Du hast die Möglichkeit theoretisch jeden Coupon mit neuen Talenten und Angeboten zu füllen. Mit der der Zeit wirst Du merken, welche deiner Fähigkeiten und Angebote am meisten von der Gesellschaft nachgefagt sind.  
 
-  
-
 **Prozedur  
 **Unter "Coupon schöpfen" trägst Du öfter manuell zusätzliche Talente und Angebote in das Talente-Text-Feld ein und erstellst verschiedene Coupons , die dann in den Umlauf kommen.  
 a) Sobald, du merkst, welche Talente am meisten nachgefragt sind trägst Du diese unter "Coupon-Einstellungen" in dein Talente-Text-Feld ein, damit diese künftig automatisch generiert werden. Die Talente, die weniger nachgefragt sind, kannst Du, wenn Du magst entfernen um dich zu fokussieren und dein Repertoire smart zu halten.  
 b) Du bist einfach vielfältig, und erweiterst dein Talente-Text-Feld immer um viele neue Angebote.  
-
-  
 
 ## Coupons annehmen  
 
@@ -90,7 +78,6 @@ Wenn dir jemand seinen Coupon sendet taucht bei Dir ein/e Pop-Up/Benachrichtigun
    + Bei Annahme wird das im Kontobuch des Versenders entsprechend vermerkt. (siehe hier: Tausch und Wertschätzung)  
 
   
-
 ## Vernetzung alternativer Lösungen  
 
 Du möchtest eine engere Vernetzung der Alternativen zum Geldsystem unterstützen, sodass die Angebote und Potentiale der lösungsorientierten Netzwerke zusammenkommen?  
@@ -104,7 +91,6 @@ Prozedur**
    + Unter "Coupon schöpfen" werden diese neuen Einheiten nun automatisch immer als ausfüllbares Feld für Dich sichtbar sein. Du brauchst unur den Wert eintargen.  
    + Du kannst aber auch jedes mal manuell unter "Coupon schöpfen" diese Felder editieren und den Wert dazu eintragen.  
 
-  
 
 ## Eigene Werteinheit / Spezialisierung selbst gestalten  
 

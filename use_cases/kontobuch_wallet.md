@@ -21,7 +21,6 @@ Immer wenn Du einen Coupon versendest, speichert das Kontobuch der GeDANKE-App f
    + Wenn dein Coupon letztendlich vollständig bei Dir wieder eingelöst wurde, wird die Zeile vom entsprechenden Coupon durchgestrichen angezeit; nun kannst Du entscheiden, ob Du diesen Datensatz behalten möchtest, oder löschen willst. Dies kannst du mit dem "-" Zeichen neben der entsprechenden Zeile machen, welches dan auftaucht.  
    + in den _**erw. Einstellungen**_ kannst Du das automatische Löschen der eingelösten Coupons aktiveren.  
 
-  
 
 ## Deine Coupon-Wallet  
 
